@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loginext-avatar/static/css/main.0dea4dfc.css",
+    "main.js": "/loginext-avatar/static/js/main.2c8d4ba3.js",
+    "static/js/787.4017facb.chunk.js": "/loginext-avatar/static/js/787.4017facb.chunk.js",
+    "index.html": "/loginext-avatar/index.html",
+    "main.0dea4dfc.css.map": "/loginext-avatar/static/css/main.0dea4dfc.css.map",
+    "main.2c8d4ba3.js.map": "/loginext-avatar/static/js/main.2c8d4ba3.js.map",
+    "787.4017facb.chunk.js.map": "/loginext-avatar/static/js/787.4017facb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dea4dfc.css",
+    "static/js/main.2c8d4ba3.js"
+  ]
+}
